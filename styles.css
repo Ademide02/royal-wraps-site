@@ -346,4 +346,12 @@
       grid-template-columns: 1fr 1fr;
     }
   }
+  .allergy-warning {
+    background-color: #ffcccb;
+    color: #000;
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 10px;
+    font-size: 0.95rem;
+  }
   
